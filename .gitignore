@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+#SQLfile
+*.sql 
+
+#Excel 
+*.xlsx
+
+##Models
+*.joblib
